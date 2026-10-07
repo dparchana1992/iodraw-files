@@ -46,9 +46,6 @@
         <mxCell id="sr71IL1TEkaQu9rkbZF4-11" value="&lt;strong&gt;Road-Safety Interpretation&lt;/strong&gt;&lt;br&gt;Probability of multi-casualty crashes by hour&lt;br&gt;Expected casualties by hour&lt;br&gt;Compare night, morning, daytime and evening" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="395" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sr71IL1TEkaQu9rkbZF4-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.552;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="-40" as="sourcePoint" />

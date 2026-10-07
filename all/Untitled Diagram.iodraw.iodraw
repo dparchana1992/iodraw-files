@@ -10,6 +10,9 @@
         <mxCell id="sr71IL1TEkaQu9rkbZF4-2" value="&lt;br&gt;&lt;span&gt;Calendar covariates&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;year, month, weekend&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="-70" width="200" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="sr71IL1TEkaQu9rkbZF4-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

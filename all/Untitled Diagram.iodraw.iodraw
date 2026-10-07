@@ -8,7 +8,7 @@
           <mxGeometry x="120" y="610" width="975" height="394" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-2" value="&lt;div&gt;&lt;strong&gt;Fatal Crash Data&lt;/strong&gt;&lt;br&gt;Casualty count&lt;br&gt;Crash time&lt;br&gt;Year, month, weekend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-70" width="200" height="70" as="geometry" />
+          <mxGeometry x="470" y="-140" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-4" value="&lt;strong&gt;Circular Crash-Time Model&lt;/strong&gt;&lt;br&gt;Convert clock time to circular time&lt;br&gt;Fit 3-component von Mises mixture&lt;br&gt;Estimate daily crash-time pattern" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="60" width="310" height="60" as="geometry" />

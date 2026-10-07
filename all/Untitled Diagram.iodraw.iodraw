@@ -46,9 +46,6 @@
         <mxCell id="sr71IL1TEkaQu9rkbZF4-9" value="&lt;strong&gt;Observed–Fitted Validation&lt;/strong&gt;&lt;br&gt;Joint probability surface&lt;br&gt;Hellinger distance&lt;br&gt;Residual patterns&lt;br&gt;Hourly calibration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="285" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sr71IL1TEkaQu9rkbZF4-10" value="&lt;strong&gt;Predictive Validation&lt;/strong&gt;&lt;br&gt;5-fold cross-validation&lt;br&gt;Temporal holdout&lt;br&gt;Robustness checks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="650" width="230" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-11" value="&lt;strong&gt;Road-Safety Interpretation&lt;/strong&gt;&lt;br&gt;Probability of multi-casualty crashes by hour&lt;br&gt;Expected casualties by hour&lt;br&gt;Compare night, morning, daytime and evening" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="350" width="290" height="60" as="geometry" />
         </mxCell>

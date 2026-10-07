@@ -38,7 +38,7 @@
           <mxGeometry x="660" y="170" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-9" value="&lt;strong&gt;Observed–Fitted Validation&lt;/strong&gt;&lt;br&gt;Joint probability surface&lt;br&gt;Hellinger distance&lt;br&gt;Residual patterns&lt;br&gt;Hourly calibration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="460" width="270" height="90" as="geometry" />
+          <mxGeometry x="200" y="430" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-10" value="&lt;strong&gt;Predictive Validation&lt;/strong&gt;&lt;br&gt;5-fold cross-validation&lt;br&gt;Temporal holdout&lt;br&gt;Robustness checks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="650" width="230" height="90" as="geometry" />

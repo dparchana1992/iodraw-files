@@ -19,9 +19,6 @@
         <mxCell id="sr71IL1TEkaQu9rkbZF4-6" value="&lt;strong&gt;Conditional Circular Casualty Model&lt;/strong&gt;&lt;br&gt;Allow casualty severity to vary smoothly over the 24-hour cycle&lt;br&gt;Compare 0, 1, 2 and 3 harmonic specifications&lt;br&gt;Select the preferred time structure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="90" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sr71IL1TEkaQu9rkbZF4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sr71IL1TEkaQu9rkbZF4-7" target="sr71IL1TEkaQu9rkbZF4-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-7" value="&lt;strong&gt;Joint Crash-Time–Casualty Distribution&lt;/strong&gt;&lt;br&gt;Combine the crash-time pattern with&lt;br&gt;casualty severity conditional on crash time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="305" width="235" height="50" as="geometry" />
         </mxCell>
@@ -57,12 +54,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.531;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sr71IL1TEkaQu9rkbZF4-8" target="sr71IL1TEkaQu9rkbZF4-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sr71IL1TEkaQu9rkbZF4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.565;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sr71IL1TEkaQu9rkbZF4-8" target="sr71IL1TEkaQu9rkbZF4-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sr71IL1TEkaQu9rkbZF4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.47;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sr71IL1TEkaQu9rkbZF4-8" target="sr71IL1TEkaQu9rkbZF4-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sr71IL1TEkaQu9rkbZF4-5" target="sr71IL1TEkaQu9rkbZF4-6">

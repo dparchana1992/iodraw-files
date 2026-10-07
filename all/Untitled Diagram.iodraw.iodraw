@@ -25,7 +25,7 @@
         <mxCell id="sr71IL1TEkaQu9rkbZF4-8" value="&lt;strong&gt;Model Selection&lt;/strong&gt;&lt;br&gt;Log-likelihood&lt;br&gt;LR test&lt;br&gt;AIC and BIC&lt;br&gt;Parsimony" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="270" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sr71IL1TEkaQu9rkbZF4-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sr71IL1TEkaQu9rkbZF4-9" value="&lt;strong&gt;Observed–Fitted Validation&lt;/strong&gt;&lt;br&gt;Joint probability surface&lt;br&gt;Hellinger distance&lt;br&gt;Residual patterns&lt;br&gt;Hourly calibration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

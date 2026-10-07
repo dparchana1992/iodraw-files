@@ -19,8 +19,8 @@
         <mxCell id="sr71IL1TEkaQu9rkbZF4-6" value="&lt;strong&gt;Conditional Circular Casualty Model&lt;/strong&gt;&lt;br&gt;Allow casualty severity to vary smoothly over the 24-hour cycle&lt;br&gt;Compare 0, 1, 2 and 3 harmonic specifications&lt;br&gt;Select the preferred time structure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="190" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sr71IL1TEkaQu9rkbZF4-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="sr71IL1TEkaQu9rkbZF4-7" value="&lt;strong&gt;Joint Crash-Time–Casualty Distribution&lt;/strong&gt;&lt;br&gt;Combine the crash-time pattern with&lt;br&gt;casualty severity conditional on crash time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="235" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="310" width="120" height="60" as="geometry" />

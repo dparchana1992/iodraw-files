@@ -29,19 +29,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-7" value="&lt;strong&gt;Joint Crash-Time–Casualty Distribution&lt;/strong&gt;&lt;br&gt;Combine the crash-time pattern with&lt;br&gt;casualty severity conditional on crash time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="462.5" y="180" width="235" height="50" as="geometry" />
+          <mxGeometry x="472.5" y="305" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-8" value="&lt;strong&gt;Model Selection&lt;/strong&gt;&lt;br&gt;Log-likelihood&lt;br&gt;LR test&lt;br&gt;AIC and BIC&lt;br&gt;Parsimony" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="260" width="270" height="90" as="geometry" />
+          <mxGeometry x="455" y="385" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-9" value="&lt;strong&gt;Observed–Fitted Validation&lt;/strong&gt;&lt;br&gt;Joint probability surface&lt;br&gt;Hellinger distance&lt;br&gt;Residual patterns&lt;br&gt;Hourly calibration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="395" width="270" height="90" as="geometry" />
+          <mxGeometry x="810" y="520" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-10" value="&lt;strong&gt;Predictive Validation&lt;/strong&gt;&lt;br&gt;5-fold cross-validation&lt;br&gt;Temporal holdout&lt;br&gt;Robustness checks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="380" width="230" height="90" as="geometry" />
+          <mxGeometry x="50" y="505" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-11" value="&lt;strong&gt;Road-Safety Interpretation&lt;/strong&gt;&lt;br&gt;Probability of multi-casualty crashes by hour&lt;br&gt;Expected casualties by hour&lt;br&gt;Compare night, morning, daytime and evening" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="395" width="290" height="60" as="geometry" />
+          <mxGeometry x="435" y="520" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.552;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">

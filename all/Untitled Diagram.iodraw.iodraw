@@ -14,7 +14,7 @@
           <mxGeometry x="190" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-5" value="&lt;strong&gt;Casualty-Count Model&lt;/strong&gt;&lt;br&gt;Compare alternative positive-count distributions&lt;br&gt;Select Zero-Truncated Discrete Weibull&lt;br&gt;Adjust for year, month and weekend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-10" width="300" height="70" as="geometry" />
+          <mxGeometry x="670" y="-10" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-6" value="&lt;strong&gt;Conditional Circular Casualty Model&lt;/strong&gt;&lt;br&gt;Allow casualty severity to vary smoothly over the 24-hour cycle&lt;br&gt;Compare 0, 1, 2 and 3 harmonic specifications&lt;br&gt;Select the preferred time structure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="90" width="360" height="60" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="400" y="360" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-8" value="&lt;strong&gt;Model Selection&lt;/strong&gt;&lt;br&gt;Log-likelihood&lt;br&gt;LR test&lt;br&gt;AIC and BIC&lt;br&gt;Parsimony" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="170" width="270" height="90" as="geometry" />
+          <mxGeometry x="660" y="170" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-9" value="&lt;strong&gt;Observed–Fitted Validation&lt;/strong&gt;&lt;br&gt;Joint probability surface&lt;br&gt;Hellinger distance&lt;br&gt;Residual patterns&lt;br&gt;Hourly calibration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="460" width="270" height="90" as="geometry" />

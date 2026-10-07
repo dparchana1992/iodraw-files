@@ -20,10 +20,10 @@
           <mxGeometry x="660" y="90" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-7" value="&lt;strong&gt;Joint Crash-Time–Casualty Distribution&lt;/strong&gt;&lt;br&gt;Combine the crash-time pattern with&lt;br&gt;casualty severity conditional on crash time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="472.5" y="305" width="235" height="50" as="geometry" />
+          <mxGeometry x="450" y="370" width="235" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-8" value="&lt;strong&gt;Model Selection&lt;/strong&gt;&lt;br&gt;Log-likelihood&lt;br&gt;LR test&lt;br&gt;AIC and BIC&lt;br&gt;Parsimony" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="400" width="270" height="90" as="geometry" />
+          <mxGeometry x="685" y="190" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-9" value="&lt;strong&gt;Observed–Fitted Validation&lt;/strong&gt;&lt;br&gt;Joint probability surface&lt;br&gt;Hellinger distance&lt;br&gt;Residual patterns&lt;br&gt;Hourly calibration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="520" width="270" height="90" as="geometry" />
@@ -52,9 +52,6 @@
               <mxPoint x="341" y="-40" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="sr71IL1TEkaQu9rkbZF4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.531;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sr71IL1TEkaQu9rkbZF4-8" target="sr71IL1TEkaQu9rkbZF4-11">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sr71IL1TEkaQu9rkbZF4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sr71IL1TEkaQu9rkbZF4-5" target="sr71IL1TEkaQu9rkbZF4-6">
           <mxGeometry relative="1" as="geometry" />

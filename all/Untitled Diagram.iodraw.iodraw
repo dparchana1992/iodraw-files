@@ -16,6 +16,9 @@
         <mxCell id="sr71IL1TEkaQu9rkbZF4-5" value="&lt;strong&gt;Casualty-Count Model&lt;/strong&gt;&lt;br&gt;Compare alternative positive-count distributions&lt;br&gt;Select Zero-Truncated Discrete Weibull&lt;br&gt;Adjust for year, month and weekend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="30" width="300" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sr71IL1TEkaQu9rkbZF4-6" value="&lt;strong&gt;Conditional Circular Casualty Model&lt;/strong&gt;&lt;br&gt;Allow casualty severity to vary smoothly over the 24-hour cycle&lt;br&gt;Compare 0, 1, 2 and 3 harmonic specifications&lt;br&gt;Select the preferred time structure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
